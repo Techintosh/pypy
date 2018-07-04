@@ -1,2 +1,2 @@
 # pypy
-A python playground
+A python playground for projects
